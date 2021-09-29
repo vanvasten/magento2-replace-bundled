@@ -1,5 +1,5 @@
 {
-  "name": "yireo/magento2-replace-bundled",
+  "name": "vanvasten/magento2-replace-bundled",
   "description": "Replace bundled third party packages from Magento",
   "require": {
     "magento/product-community-edition": ">=2.4.0 <2.4.4"
